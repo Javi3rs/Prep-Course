@@ -251,7 +251,7 @@ function continueStatement(numero) {
     numero = numero + 2;
     contador.push(numero);
   }
-  return contador;
+  return contador; 
 }
 
 

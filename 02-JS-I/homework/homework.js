@@ -134,7 +134,7 @@ function elevarAlCuadrado(num) {
   // ojo: No es raiz cuadrada!
   // Tu código:
   var resultado = Math.pow(num,2);
-  return resultado;
+  return resultado; 
 }
 
 function elevarAlCubo(num) {
