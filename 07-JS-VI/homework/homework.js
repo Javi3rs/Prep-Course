@@ -9,7 +9,7 @@ function mayuscula(nombre) {
 
 function invocarCallback(cb) {
   // Invoca al callback `cb`
-  //Tu código:
+  //Tu código: 
   return cb();
 }
 
